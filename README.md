@@ -1,4 +1,4 @@
-# synent-task3-Netflix-EDA-krish-sankhavara
+# synent-task3-Netflix-EDA-Rishabh-Sakariya
 Synent Technologies Data Science Internship - Task 3: Netflix Titles Exploratory Data Analysis (EDA)
 👨‍💻 Intern
 
